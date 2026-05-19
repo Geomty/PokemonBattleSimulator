@@ -3,6 +3,7 @@ package pokemon;
 /**
  * Enumerates the major status conditions used in battle
  */
+
 public enum StatusCondition {
     NONE("OK"),
     PARALYZED("Paralyzed"),

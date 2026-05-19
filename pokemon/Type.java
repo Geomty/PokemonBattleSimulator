@@ -1,8 +1,9 @@
 package pokemon;
 
 /**
-  * Defines Pokemon types and the effectiveness multipliers between them
-  */
+ * Defines Pokemon types and the effectiveness multipliers between them
+ */
+
 public enum Type {
     NORMAL("Normal"),
     FIRE("Fire"),
